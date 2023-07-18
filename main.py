@@ -9,8 +9,8 @@ USERNAME = "" # Place Username Dynamic Variable
 UEI = "" # Place UEI Dynamic Variable
 FOLDER_PATH = "C:\Temp\Cody\{USERNAME}\{UEI}"
 
-# DELETE these two lines when done testing
-TEST_PATH = "/Users/Angel/Downloads/Python PDF Testing"
+# DELETE these two lines when done testing # EXAMPLE
+TEST_PATH = "/Users/Username/Downloads/Python PDF Testing"
 FOLDER_PATH = TEST_PATH
 #
 
